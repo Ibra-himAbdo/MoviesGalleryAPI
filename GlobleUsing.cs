@@ -1,0 +1,9 @@
+﻿global using System.Text.Json.Serialization;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using MoviesGalleryAPI.Models;
+global using MoviesGalleryAPI.Data;
+global using AutoMapper;
+global using MoviesGalleryAPI.Dtos;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using MoviesGalleryAPI.Services;
